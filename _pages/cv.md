@@ -13,8 +13,8 @@ Download my entire CV [here.](https://yannakopoulos.github.io/files/cv.pdf)
 
 Education
 ======
-* BS in Physics & Computational Science, Florida State University, 2017
-* PhD in Computational Math, Science, & Engineering, Michigan State University, 2022 (expected)
+* BS in Physics & Computational Science, Florida State University (2017)
+* PhD in Computational Math, Science, & Engineering, Michigan State University (expected 2022)
 
 Skills
 ======
