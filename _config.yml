@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Anna Yannakopoulos"
   avatar           : "profile.jpg"
-  bio              : "PhD student and bioinformatician in the Krishnan Lab at Michigan State University."
-  location         : "Location"
+  bio              : "PhD student and bioinformatician in [the Krishnan Lab](https://www.thekrishnanlab.org/) at Michigan State University."
+  location         : "Michigan State University"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=rbdfgosAAAAJ"
