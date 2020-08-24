@@ -6,5 +6,5 @@ excerpt: 'We provide a calibration for the de Haas-van Alphen (dHvA) frequency i
 date: 2016-03-14
 venue: 'APS Meeting Abstracts'
 paperurl: 'http://adsabs.harvard.edu/abs/2016APS..MARV46007C'
-citation: 'W. A. Coniglio, A. Williams, A. Yannakopoulos, A. Grockowiak, S. Tozer. (2016). &quot;High magnetic field calibration using de Haas-van Alphen oscillations in polycrystalline copper.&quot; <i>APS Meeting Abstracts</i>.'
+citation: 'Coniglio, William A., Alan F. Williams, Anna Yannakopoulos, Audrey Grockowiak, and Stan Tozer. “High Magnetic Field Calibration Using de Haas-van Alphen Oscillations in Polycrystalline Copper,” 2016, V46.007.'
 ---
