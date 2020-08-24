@@ -44,6 +44,12 @@ Experience
   * Built simulations of the electronic structure of solids
   * Wrote drivers to control precision laboratory equipment
 
+Awards
+======
+* Michigan State University's Engineering Distinguished Fellowship (2017)
+* Florida State University's Anna Runyan Award (2017)
+* Moody’s Mega Math Challenge, 3rd Place Nationally (2013)
+* National Merit Scholar Semifinalist (2013)
 
 <!-- Publications
 ======
