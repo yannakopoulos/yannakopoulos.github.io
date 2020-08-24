@@ -19,13 +19,13 @@ Education
 Skills
 ======
 * Languages: Python, R, C/C++, CUDA, MATLAB, SQL, LaTeX
-* Software: OpenMP, MPI, Elastic Stack
+* Software: Pandas, NumPy, PyTorch, OpenMP, MPI, Elastic Stack
 * Platforms: High-performance computing, Linux, Windows
 
 Experience
 ======
 * PhD Student at Michigan State University (Fall 2017 - present)
-  * Designing novel methods of incorporating low-quality data into machine learning algorithms to discover the genetic basis of human health
+  * Designing novel methods of incorporating low-quality and unconventional data into machine learning algorithms to discover the genetic basis of human health
   * Developing natural language processing pipelines to extract biological relationships from unstructured text data using word embeddings
   * Managing code standards, software, and high-performance computing environments for a diverse interdisciplinary lab
 
@@ -45,11 +45,11 @@ Experience
   * Wrote drivers to control precision laboratory equipment
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 
 <!-- Talks
@@ -67,3 +67,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+
+Last updated on August 24, 2020.
