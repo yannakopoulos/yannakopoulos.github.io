@@ -11,6 +11,7 @@ redirect_from:
 
 Download my full CV [here.](https://raw.githubusercontent.com/yannakopoulos/Awesome-CV/master/examples/cv.pdf)
 
+<!--
 Education
 ======
 * BS in Physics & Computational Science, Florida State University (2017)
@@ -49,7 +50,7 @@ Awards
 * Michigan State University's Engineering Distinguished Fellowship (2017)
 * Florida State University's Anna Runyan Award (2017)
 * Moody’s Mega Math Challenge, 3rd Place Nationally (2013)
-* National Merit Scholar Semifinalist (2013)
+* National Merit Scholar Semifinalist (2013) -->
 
 <!-- Publications
 ======
@@ -74,4 +75,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
 
-Last updated on August 24, 2020.
+<!-- Last updated on August 24, 2020. -->
